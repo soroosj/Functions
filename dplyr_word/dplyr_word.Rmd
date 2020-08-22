@@ -12,13 +12,10 @@ library (stringr)
 
 names <- c( "Serena Jameka Williams", "Rafael Nadal Parera", "Steffi Graf")
 
-#new way
 word (names, 1)
 word (names, 2)
 word (names, -1)
 word (names, 2, 3)
 word (names, -2, 2)
-
-
 ```
 
